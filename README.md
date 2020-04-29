@@ -1,3 +1,2 @@
-# Starship-v.1
-# Starship-v.1
+# hackathon project
 # Starship-v.1
