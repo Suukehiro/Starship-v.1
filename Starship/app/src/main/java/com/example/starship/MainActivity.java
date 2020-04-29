@@ -59,8 +59,7 @@ public class MainActivity extends AppCompatActivity {
                 String NameTemp = Name.getText().toString();
                 String WeightTemp = Weight.getText().toString();
                 String CountTemp = Count.getText().toString();
-                if (!"".equals(NameTemp) & !"".equals(WeightTemp) & !"".equals(CountTemp) &
-                        Integer.parseInt(WeightTemp) != 0 & Integer.parseInt(CountTemp) != 0) {
+                if (!"".equals(NameTemp) & !"".equals(WeightTemp) & !"".equals(CountTemp)) {
                     if(existA(NameTemp)) {
                         Toast toast = Toast.makeText(MainActivity.this, "Данный предмет уже существует", Toast.LENGTH_LONG);
                         toast.show();
