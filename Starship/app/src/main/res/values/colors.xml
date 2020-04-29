@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="black">#000000</color>
+    <color name="hightGrey">#1B1A1A</color>
+    <color name="colorGrey">#C7C7C7</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <dimen name="listdp">0.4dp</dimen>
+
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Starship 🚀</string>
+    <string name="app_name_main">Starship</string>
+    <string name="list">Список</string>
+    <string name="kit">Набор</string>
+    <string name="add_item">Добавление предмета</string>
+    <string name="name">Название</string>
+    <string name="weigthedit">Вес (тонны)</string>
+    <string name="counted">Стоимость (камни)</string>
+    <string name="notice">Максимальная грузоподъёмность корабля 30 тонн</string>
+</resources>
